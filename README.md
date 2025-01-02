@@ -1,0 +1,1 @@
+This project involves the **Exploratory Data Analysis (EDA)** of a dataset containing student performance data. The dataset includes various features. The goal of this analysis was to understand the distribution of student performance, explore relationships between different variables, and gain insights that could potentially inform educational strategies.
